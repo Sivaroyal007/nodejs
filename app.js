@@ -24,5 +24,5 @@
 // console.log(chalk.blue('Hello world!'));
 const chalk = require('chalk')
 
-const greenMsg = chalk.green.inverse.bold('Success!')
+const greenMsg = chalk.yellowBright.inverse.bold('Success!')
 console.log(greenMsg)
