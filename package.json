@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
+    "type": "module",
     "url": "git+https://github.com/Sivaroyal007/nodejs.git"
   },
   "author": "sivaRoyal",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Sivaroyal007/nodejs#readme",
   "dependencies": {
+    "chalk": "^4.1.0",
     "validator": "^13.7.0"
   }
 }
